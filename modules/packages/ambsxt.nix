@@ -31,7 +31,7 @@
       packages.ambxst = pkgs.symlinkJoin {
         pname = "ambxst";
         version = "0.1.0"; 
-        paths = [ quickshellPkg pkgs.rembg ]; 
+        paths = [ quickshellPkg ]; 
 
         nativeBuildInputs = [ pkgs.makeWrapper ];
 
