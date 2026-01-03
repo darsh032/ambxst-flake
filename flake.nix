@@ -8,7 +8,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     ambxst = {
-      url = "github:TheMuseCipher/ambxst";
+      url = "github:axenide/ambxst";
       flake = false;
     };
   };

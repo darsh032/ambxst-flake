@@ -3,15 +3,15 @@
     "ambxst": {
       "flake": false,
       "locked": {
-        "lastModified": 1767432095,
-        "narHash": "sha256-2Y3Ka+ZuYjzz4byJ1IpZ0de/fJXoPWCyce3nfVtIhEY=",
-        "owner": "TheMuseCipher",
+        "lastModified": 1767426728,
+        "narHash": "sha256-VURw+vBrRzIxZIJobIGbzMd7OHlwdOioP4xvvFBFqvY=",
+        "owner": "axenide",
         "repo": "ambxst",
-        "rev": "1133c0ae19248319e1b4dfad22135498cd8d9704",
+        "rev": "5a3255ef7f6fde88c3192d2aab25393fa82ee4f5",
         "type": "github"
       },
       "original": {
-        "owner": "TheMuseCipher",
+        "owner": "axenide",
         "repo": "ambxst",
         "type": "github"
       }
